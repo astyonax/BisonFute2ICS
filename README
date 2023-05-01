@@ -1,6 +1,9 @@
 A toy script to manually enter a calendar entry for each non-Green
-day in the Bison Fute PDF data. 
+day in the Bison Fute PDF data (https://www.bison-fute.gouv.fr/calendrier-bison-fute,11601.html).
+
 
 ChatGPT wasn't very helpful, so I turned to manual work .. Anyway it's quite fast, in 20' one can fill the calendars in both directions.
 
 The work is backed up so it's not lost in case of errors (not uncommon given the toyish level of the script)
+
+ICS format has no universal support for styling, so the info is just human readable message.. I would love some colors though.. 
