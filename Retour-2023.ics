@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230805
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange everywhere
+UID:bce362d6-5c9b-4b7a-b765-e58ebaaec7e2@bce3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230825
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 6 else Orange
+UID:ea9c06a9-31b0-4d3d-bf55-a3ea2daf838d@ea9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1 else Green
+UID:618c123c-0177-4666-8d9c-cbdec35fc717@618c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230218
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 4 else Green
+UID:fe986ae6-9269-4021-9d40-d8284aae1b55@fe98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230101
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 3-4 else Green
+UID:1564dd83-a7b5-462e-8914-7394e7ca6538@1564.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231104
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1 else Green
+UID:e9f15365-70c9-4c21-88fb-fed82e7873a7@e9f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230410
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 1-2 else Green
+UID:f14f1f0d-4e97-44c7-9efb-c143518bee3f@f14f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231222
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 4 else Green
+UID:96857ce7-eeb9-40f6-947c-0f44b8534e6f@9685.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230728
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange everywhere
+UID:92934eaa-49d6-48a7-b45f-707654ed545c@9293.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230812
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 2 else Orange
+UID:f59bef8e-e443-4d6a-876e-7fe2f9b27068@f59b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230816
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 4 else Green
+UID:32307887-eb24-4728-9658-d546037418f0@3230.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230501
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1 else Green
+UID:18fe380b-0e4d-4fed-9caf-437cf80dc5bf@18fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230507
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1 else Green
+UID:eca0677c-974f-4a2c-87b6-28d628c578bc@eca0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230826
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red everywhere
+UID:7aec1ab2-d199-49d6-93c4-a2783f59b5d4@7aec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230716
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 1 else Orange
+UID:0e07cf85-170b-43b0-a43c-c4a05364ee53@0e07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230102
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1-3 else Green
+UID:ed56a836-b637-48a1-99db-6691ab122ed8@ed56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230804
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 6 else Green
+UID:764bfbad-90a6-4326-b67d-f6896d94b91e@764b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230422
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 4 else Green
+UID:d3d0463c-b139-400e-b1c9-0f394728bf78@d3d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230529
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1-2 else Green
+UID:311cc012-29c9-4681-9fb7-74b6c32768f6@311c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230819
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red everywhere
+UID:df668ac6-cb8c-4137-9fa2-44c0a059b0ec@df66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230827
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange everywhere
+UID:34837b18-4826-43f9-a685-191eb8f962e2@3483.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230304
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 3-4 else Green
+UID:861eeb2c-f87d-4295-aa77-64cd44d6c903@861e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230821
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange everywhere
+UID:5a0b1c19-ef54-4078-acab-02827757fdbd@5a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230508
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 1 else Green
+UID:69870708-5329-447c-9e93-2d927ab3964e@6987.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230813
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 4-6 else Green
+UID:cc4f916c-ae7d-489a-85a3-e45b66ef18d6@cc4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230729
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 2 else Green
+UID:7cbb03ee-3cf6-4f89-b2b3-96c6c846233c@7cbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230526
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange everywhere
+UID:103e90a8-0159-45bf-b6cb-abefa8399a76@103e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230818
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 4-6 else Orange
+UID:2c7e7028-51a4-4d70-9d73-1e2ee212984c@2c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230811
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 6 else Orange
+UID:9cf1aaa4-4a45-498e-bcf6-1877332267d7@9cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230828
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 1 else Orange
+UID:4c5ac781-e4c3-44b1-b53c-807a58719c13@4c5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230902
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange everywhere
+UID:18c3c45b-8669-45df-ada5-36b8f1587edd@18c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230820
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Red in zone 4 else Orange
+UID:de742c88-ab0b-40b7-a1f2-0a4aae99e616@de74.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230225
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1-4 else Green
+UID:fc8e840f-ea26-4bf1-8bdb-62bdf893ec05@fc8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230211
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 4 else Green
+UID:9968d580-db5f-44fd-ad84-bed117fd9644@9968.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange everywhere
+UID:86d7d7d2-0a4b-4f94-909e-749f63d0929c@86d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231103
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Orange in zone 1 else Green
+UID:83f18813-4f2f-459f-aaa0-136bc2e42d4c@83f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230521
+DESCRIPTION:https://www.bison-fute.gouv.fr/IMG/pdf/Calendrier_2023_Bison_Fute_A3_impression.pdf
+SUMMARY:<- Black everywhere
+UID:411f4c16-0857-4361-bc60-d17a8e58c391@411f.org
+END:VEVENT
+END:VCALENDAR
